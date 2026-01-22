@@ -1,7 +1,7 @@
 {
-	"name": "Ultraviolet App",
-	"description": "Node.js Ultraviolet instance",
+	"name": "Google Classroom",
+	"description": "Node.js idk",
 	"repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-	"logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-	"keywords": ["tomp", "ultraviolet"]
+	"logo": "https://ssl.gstatic.com/classroom/favicon.png",
+	"keywords": ["tomp", "idk"]
 }
