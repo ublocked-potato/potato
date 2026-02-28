@@ -1,12 +1,12 @@
 services:
-  ultraviolet:
+  Trident x:
     ports:
       - 8080:8080
     build:
       context: .
-    container_name: ultraviolet
+    container_name: trident x
     restart: unless-stopped
 
 networks:
   default:
-    name: ultraviolet
+    name: trident x
